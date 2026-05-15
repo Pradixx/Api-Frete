@@ -1,0 +1,39 @@
+# --- Compilação e Build ---
+target/
+build/
+out/
+bin/
+
+# --- IDEs (IntelliJ, VS Code, Eclipse) ---
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated
+.springBeans
+.sts4-cache
+
+# --- NetBeans ---
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Variáveis de ambiente ---
+.env
+.env.local
+*.env
+
+# --- Logs ---
+*.log
+logs/

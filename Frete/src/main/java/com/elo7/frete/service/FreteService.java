@@ -1,9 +1,9 @@
 package com.elo7.frete.service;
 
-import com.elo7.frete.controller.DTO.FreteResponseDTO;
-import com.elo7.frete.controller.DTO.SalvarProdutoDTO;
-import com.elo7.frete.infrastructure.entity.Produto;
-import com.elo7.frete.infrastructure.repository.ProdutoRepository;
+import com.elo7.frete.dto.FreteResponseDTO;
+import com.elo7.frete.dto.SalvarProdutoDTO;
+import com.elo7.frete.model.Produto;
+import com.elo7.frete.repository.ProdutoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

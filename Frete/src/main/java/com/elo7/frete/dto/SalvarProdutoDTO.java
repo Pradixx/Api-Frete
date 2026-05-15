@@ -1,4 +1,4 @@
-package com.elo7.frete.controller.DTO;
+package com.elo7.frete.dto;
 
 public record SalvarProdutoDTO(
         String cepDestino,

@@ -1,7 +1,7 @@
 package com.elo7.frete.controller;
 
-import com.elo7.frete.controller.DTO.FreteResponseDTO;
-import com.elo7.frete.controller.DTO.SalvarProdutoDTO;
+import com.elo7.frete.dto.FreteResponseDTO;
+import com.elo7.frete.dto.SalvarProdutoDTO;
 import com.elo7.frete.service.FreteService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

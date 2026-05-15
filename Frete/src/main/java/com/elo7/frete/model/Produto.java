@@ -1,4 +1,4 @@
-package com.elo7.frete.infrastructure.entity;
+package com.elo7.frete.model;
 
 import jakarta.annotation.Generated;
 import jakarta.persistence.*;
